@@ -12,3 +12,11 @@
 * [Страничка Лукиной](http://mathdep.ifmo.ru/mlukina/)
 * [Матан Лукиной](http://mathdep.ifmo.ru/lukina_matan/)
 * [Линал Лукиной](http://mathdep.ifmo.ru/lukina_linal/)
+
+# Физика
+* [Study Physics](https://study.physics.itmo.ru/)
+* [Google Classroom](https://classroom.google.com/u/0/h)
+* [ЭБС Лань](https://e.lanbook.com/)
+  * ["Общий курс физики", Сивухин, Том 3. Электричество](https://e.lanbook.com/reader/book/72015/#1)
+  * ["Задачи по общей физике", Иродов](https://e.lanbook.com/reader/book/4389/#1)
+* [Сайт для расчёта МНК онлайн](https://xn-----7kcbakcjfdd9ab3avfoelp4b2ar8dzd9e.xn--p1ai/)
