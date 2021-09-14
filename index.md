@@ -15,7 +15,7 @@
 
 # Программная инженерия
 * [Сайт кафедры](https://se.ifmo.ru/)
-  * [Ссылка на курс](https://se.ifmo.ru/courses/software-engineering-basics)
+* [Ссылка на курс](https://se.ifmo.ru/courses/software-engineering-basics)
 * [YouTube](https://www.youtube.com/playlist?list=PLBWafxh1dFuykoWaAt7HiMOGgWXRvAN5V)
 * [Конспект лекций](https://se.ifmo.ru/documents/10180/671657/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D0%B8+%D0%BF%D0%BE+%D0%9E%D0%9F%D0%98+v1.3.3.pdf/50ce1e06-00d9-4900-be9c-a3316a746d6d)
 
